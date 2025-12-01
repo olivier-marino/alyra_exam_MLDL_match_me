@@ -1,3 +1,6 @@
+Resources a voir pour l'api
+https://fastapi.tiangolo.com/tutorial/response-model/?h=
+
 Questions :
 
 Sur la partie EDA, j'essaye de justifier le retrait de colonnes pour réduire la liste de features en regardant la covariance entre features.
