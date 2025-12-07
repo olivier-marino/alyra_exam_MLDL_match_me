@@ -1,7 +1,7 @@
-Resources a voir pour l'api
-https://fastapi.tiangolo.com/tutorial/response-model/?h=
+
+
+Deep Learning:
+Pour la partie Deep Learning il me faut générer des phrases d'accroche par rapport au profil matché.
 
 Questions :
-
-Sur la partie EDA, j'essaye de justifier le retrait de colonnes pour réduire la liste de features en regardant la covariance entre features.
-J'ai également essayé via le chi2 de déterminer si la colonne a réellement une importance par rapport a la colonne 'match' (label) mais je n'arrive pas a déterminer comment analyser le résultat.
+- [ ] Pour le jeu de donnée j'ai besoin de phrases d'accroche ? C'est un peu flou pour moi de savoir ce qu'il me faut pour générer une phrases d'accroche par rapport a mes données car si j'ai 2 profil qui partagent une passion pour le sport la phrase d'accroche devra s'accorder a cette particularité hors si j'ai des phrases d'accroche toute faite se sera générique.
